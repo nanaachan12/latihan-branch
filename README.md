@@ -1,3 +1,3 @@
 # latihan-branch
 
-Latihan branch1
+Latihan branch2
